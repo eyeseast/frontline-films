@@ -6,6 +6,6 @@ I wanted to put [Frontline's film archive](http://www.pbs.org/wgbh/pages/frontli
 To run, clone this repo and:
 
     $ npm install
-    $ node scrape.js > data/films.csv
+    $ node scrape.js > data/shows.csv
 
-That's it. I've stored a copy of the downloaded data in `data/films.csv`. Enjoy.
+That's it. I've stored a copy of the downloaded data in `data/shows.csv`. Enjoy.
