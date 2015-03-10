@@ -1,0 +1,19 @@
+{
+  "name": "frontline-films",
+  "version": "0.0.0",
+  "description": "A scraper for Frontline's online film archive",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "frontline"
+  ],
+  "author": "Chris Amico",
+  "license": "MIT",
+  "dependencies": {
+    "dsv": "0.0.4",
+    "cheerio": "~0.18.0",
+    "request": "~2.53.0"
+  }
+}
