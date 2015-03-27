@@ -15,5 +15,14 @@
     "dsv": "0.0.4",
     "cheerio": "~0.18.0",
     "request": "~2.53.0"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/eyeseast/frontline-films.git"
+  },
+  "bugs": {
+    "url": "https://github.com/eyeseast/frontline-films/issues"
+  },
+  "homepage": "https://github.com/eyeseast/frontline-films"
 }
